@@ -10,11 +10,14 @@
 Приложение содержит две Activity:
   * MainActivity: 
     На этом экране находится кнопка "Перейти к Activity 2".
-    <img src="https://github.com/domosedochka/Laba1/blob/main/Screenshot_2024-10-09-00-48-33-977_com.example.laba1.jpg" width="200" />
+    <div align="left">
+  <img src="https://github.com/domosedochka/Laba1/blob/main/Screenshot_2024-10-09-00-48-33-977_com.example.laba1.jpg" width="200" />
+</div>
   * SecondActivity:
      На этом экране отображается текст "Переданный параметр: Зинченко", где Зинченко* - это строка, переданная из MainActivity.
-    <img src="https://github.com/domosedochka/Laba1/blob/main/Screenshot_2024-10-09-00-48-40-164_com.example.laba1.jpg" width="200" />
-
+<div align="left">
+  <img src="https://github.com/domosedochka/Laba1/blob/main/Screenshot_2024-10-09-00-48-40-164_com.example.laba1.jpg" width="200" />
+</div>
 # Дополнительные сведения:
 * Проект использует стандартные компоненты Android: Activity, Intent, Button, TextView.
 * Переход между Activity осуществляется с помощью Intent - объекта, который содержит информацию о том, какую Activity нужно запустить.
